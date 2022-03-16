@@ -8,7 +8,8 @@
 
 #### Version 1.0 function list
 - **Pokémon in craft list page**
-- **unique Pokémon image and detail page**
+- **Unique Pokémon image and detail page**
+- **An simple Unit Test**
 
 ## 3rd Party libraries
 - [Glide image load,cache](https://github.com/bumptech/glide)
