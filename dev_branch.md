@@ -10,6 +10,7 @@
 - **Pokémon in craft list page**
 - **Unique Pokémon image and detail page**
 - **An simple Unit Test**
+- **test1 1**
 
 ## 3rd Party libraries
 - [Glide image load,cache](https://github.com/bumptech/glide)
