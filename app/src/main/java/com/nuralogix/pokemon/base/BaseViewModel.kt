@@ -6,5 +6,5 @@ import androidx.lifecycle.ViewModel
  * Created by Qiang Shen on 2022/3/16.
  */
 open class BaseViewModel: ViewModel() {
-    //TODO  write some basic method or field
+    //TODO  write some basic method or field update 2022/4/15
 }
