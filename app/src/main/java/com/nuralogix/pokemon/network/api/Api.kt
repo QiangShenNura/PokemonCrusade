@@ -24,7 +24,7 @@ interface Api {
     suspend fun getPokemonInSpaceList(): SpaceDataListBean
 
     /**
-     * get pokemon in space craft
+     * get pokemon detail list
      */
     @Headers("urlname:detail_list")
     @GET(POKEMON_DETAIL_LIST)
