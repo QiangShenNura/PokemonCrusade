@@ -28,6 +28,7 @@ class MainActivity : AppCompatActivity() {
         mainViewModel.getPokemonInSpace()
         // test comment
         // test comment 1
+        // test comment 2
     }
 
     private fun initViews() {
