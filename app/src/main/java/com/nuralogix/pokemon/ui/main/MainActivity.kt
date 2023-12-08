@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
         //TODO loading when start fetch data, stop loading when fetch over
         mainViewModel.getPokemonInSpace()
         // test comment
+        // test comment 1
     }
 
     private fun initViews() {
