@@ -9,6 +9,7 @@ import com.nuralogix.pokemon.network.PokemonDetail
  */
 class LocalDataResp {
     companion object{
+        // A list to save pokemon detail data
         var pokemonDetailListLocal: List<PokemonDetail>?= null
         const val KEY_LOCAL_SPACE_LIST_DATA = "KEY_LOCAL_SPACE_LIST_DATA";
         const val KEY_LOCAL_POKEMON_LIST_DATA = "KEY_LOCAL_POKEMON_LIST_DATA";
